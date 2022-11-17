@@ -1,9 +1,9 @@
 # tech_team
 
-##Teardown and Repair
+## Teardown and Repair
 
 
-##Raspberry Pi - Coding
+## Raspberry Pi - Coding
 
 
 ## ???
