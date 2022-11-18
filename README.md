@@ -1,9 +1,14 @@
 # tech_team
 
-## Teardown and Repair
+## Computer Teardown and Repair
+- Chromebook Repair
+- Desktop Builds
 
 
-## Raspberry Pi - Coding
-
+## Raspberry Pi - Scratch - Coding
+- Scratch
+- MakeCode
+- Python
+- Raspberry Pi Administration
 
 ## ???
