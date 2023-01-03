@@ -4,7 +4,7 @@
 
 ## Computer Teardown and Repair
 - Chromebook Repair: [Chromebook Repair Site](https://www.ifixit.com/Device/Lenovo_100e_Chromebook_2nd_Gen)
-- Desktop Builds (Gavin)
+- Desktop Builds (Gavyn)
 
 
 ## Scratch - Coding
