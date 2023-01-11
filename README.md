@@ -14,5 +14,5 @@
 
 
 ## Physical Computing
-- [MicroBit - https://makecode.microbit.org](https://makecode.microbit.org) - 
+- [MicroBit - https://makecode.microbit.org](https://makecode.microbit.org)
 - [Circuit Playground - https://makecode.adafruit.com](https://makecode.adafruit.com)
