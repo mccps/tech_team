@@ -16,3 +16,7 @@
 ## Physical Computing
 - [MicroBit - https://makecode.microbit.org](https://makecode.microbit.org)
 - [Circuit Playground - https://makecode.adafruit.com](https://makecode.adafruit.com)
+
+## Minecraft Education
+- Hour of Code
+- Coding Fundamentals 
